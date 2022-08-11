@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UmarMahmoodShaikh
-- 👀 I’m interested in coding and development
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to go for entrepreneurship 
-- 📫 Use my email to raech me.
+- 👀 I’m interested in coding and development and solutions to daily life problems
+- 💎 I’m currently working on Ruby on Rails and have experience in React and Angular
+- 💞️ I’m looking to go for entrepreneurship and working on greener and smarter technology 
+- 📫 Use my email to reach me and feel free to contact me here also.
 
 <!---
 UmarMahmoodShaikh/UmarMahmoodShaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
