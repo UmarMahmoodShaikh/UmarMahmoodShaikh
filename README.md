@@ -9,7 +9,7 @@ Backend engineer at elGrocer - Etisalat , currently coding on Ruby, Previously I
 - 🚶🏻 I’m looking to go for entrepreneurship and working on greener and smarter technology;
 - 📫 Use my email umarmahmoodshk@gmail.com to reach me or use my Linkedin <link>https://www.linkedin.com/in/umar-mahmood-561308210/</link>;
 - 😍 Hobbies: Mimicry, Unboxing Videos on Youtube, Graffiti, Editing Memes and listening to Music;
-- 👻 Snapchat: umarshk7
+- 👻 Snapchat: umarshk7;
 
 
 🛠️ Languages and Tools: 
