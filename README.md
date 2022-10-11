@@ -27,3 +27,6 @@ Backend engineer at elGrocer - Etisalat , currently coding on Ruby, Previously I
 UmarMahmoodShaikh/UmarMahmoodShaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="umar-mahmood-561308210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/umar-mahmood-561308210?trk=profile-badge">Umar Mahmood</a></div>
+              
